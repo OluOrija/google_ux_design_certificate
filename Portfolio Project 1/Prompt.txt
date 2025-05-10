@@ -1,0 +1,3 @@
+Design a floral arrangement preview app for a trendy florist.
+
+I selected this prompt because it combines creativity with technology, allowing users to visualize custom floral arrangements in real time. It also addresses a real-world need for florists and customers to collaborate more effectively on design choices before purchase.

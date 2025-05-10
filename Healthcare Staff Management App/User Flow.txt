@@ -1,0 +1,9 @@
+User Flow Example:
+
+Nurse logs into the app, filters for "ICU shifts within 10 miles" tomorrow.
+
+Books a 7 AM–3 PM shift, receives confirmation, and adds it to their iPhone calendar.
+
+Admin reviews the booking, confirms certifications are valid, and approves.
+
+App sends a reminder 12 hours before the shift.

@@ -1,0 +1,39 @@
+-------------------------------------------------------------------------------------------------
+Latest
+-------------------------------------------------------------------------------------------------
+---
+
+**"Design a mobile app and responsive website for a healthcare staffing agency. The platform should enable agency staff to:**
+
+* **View and filter available shifts in real time based on role, location, and time**
+* **Book shifts directly through the app**
+* **Manage their availability and profile**
+* **Submit digital timesheets after completing shifts**
+* **Receive real-time notifications for new, changed, or cancelled shifts**
+* **View booking history and upcoming shifts**
+
+**For administrators, the system should provide:**
+
+* **Tools to create, publish, and manage shifts**
+* **Assign staff manually or allow auto-assignment based on availability and qualifications**
+* **Monitor booking status and fill rates**
+* **Approve timesheets and track hours worked**
+* **Generate reports on shift coverage, staff utilization, and payroll**
+* **Integrate with payroll systems for streamlined payment processing**
+
+**The solution should be user-friendly, secure, and optimized for both mobile and desktop use."**
+
+---
+
+-------------------------------------------------------------------------------------------------
+Version 3
+-------------------------------------------------------------------------------------------------
+"Design a mobile app and responsive website for a healthcare staffing agency. The platform should allow agency staff to view, filter, and book available shifts in real time based on role, location, and time. Staff should be able to manage their availability, receive notifications for new or updated shifts, and view their upcoming bookings. For administrators, the system should support creating and managing shifts, assigning staff, tracking booking status, and generating reports on shift coverage and staff utilization."
+-------------------------------------------------------------------------------------------------
+Version 2
+-------------------------------------------------------------------------------------------------
+"Design a mobile app and responsive website for a healthcare staffing agency that allows staff to view available shifts in real-time, filter by role, location, and time, and book shifts directly through the platform. The system should include shift details, booking confirmation, staff availability management, and notifications for new or changed shifts."
+-------------------------------------------------------------------------------------------------
+Version 1
+-------------------------------------------------------------------------------------------------
+Design an app and a responsive website that enables an healthcare agency to provide a list of available shifts to agency staffs and allow the agency staffs to book a shift.

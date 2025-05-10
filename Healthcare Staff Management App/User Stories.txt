@@ -1,0 +1,22 @@
+### 📋 **User Stories**
+
+#### **Staff User Stories**
+
+* As a staff member, I want to view available shifts so I can find work that suits my schedule.
+* As a staff member, I want to filter shifts by location, role, and time so I can quickly find relevant ones.
+* As a staff member, I want to book a shift easily so I can secure my work.
+* As a staff member, I want to manage my availability so I only see shifts that I can take.
+* As a staff member, I want to submit timesheets digitally so I can get paid promptly.
+* As a staff member, I want to receive notifications about shift updates so I stay informed.
+* As a staff member, I want to see my upcoming and past bookings so I can plan accordingly.
+
+#### **Admin User Stories**
+
+* As an admin, I want to create and manage shifts so I can ensure full coverage.
+* As an admin, I want to assign staff manually or automatically based on criteria so shifts are filled efficiently.
+* As an admin, I want to approve submitted timesheets so staff can be paid accurately.
+* As an admin, I want to view reports on shift fulfillment and staff utilization so I can improve workforce planning.
+* As an admin, I want to export hours to payroll systems so I can streamline compensation.
+* As an admin, I want to manage staff profiles and credentials to ensure compliance and qualifications.
+
+---
