@@ -1,0 +1,5 @@
+Brand Logo Formula
+Color Scheme: Hex = #00b288
+Fonts: 
+- Left O = Agency FB + Black outline
+- Right O = MS Outlook + Green outline
