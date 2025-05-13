@@ -1,0 +1,1 @@
+Most pain points fall into one of four categories: product, financial, process, or support.
